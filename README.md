@@ -4,7 +4,8 @@ A Streamlit web app that generates detailed summaries of YouTube videos and webs
 
 ## Features
 
-- Summarize YouTube video titles and descriptions
+- Summarize YouTube video titles and descriptions in any language of your choice
+- Download YouTube video transcripts with ease
 - Summarize website content
 - Clean, user-friendly Streamlit interface
 - Uses advanced LLMs for high-quality summaries
@@ -22,5 +23,5 @@ A Streamlit web app that generates detailed summaries of YouTube videos and webs
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Gouravlohar/YT-Website-Summarizer.git
+   git clone https://github.com/shubhamsinha1010/YT-video-summarizer.git
    cd YT-Website-Summarizer
